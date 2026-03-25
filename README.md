@@ -63,13 +63,13 @@ Visualization of the most successful countries in Olympic history:
 
 ![Top Countries](screenshots/chart.png)
 
-The United States leads by a significant margin, followed by Russia and Germany.
+The United States leads Olympic medal counts by a large margin, followed by Russia and Germany, highlighting long-term dominance in global competition.
 
 ---
 
 ## Key Insights
 
-![Insights](screenshots/insights.png)
+The analysis shows that Olympic medalists range widely in age, from 10 to 73 years old, with an average around 26. While most athletes peak in their mid-20s, older athletes still succeed in sports like sailing and art competitions, challenging assumptions about athletic prime.
 
 - Olympic medalists range widely in age, from **10 to 73 years old**
 - The average medalist age is approximately **26 years old**
